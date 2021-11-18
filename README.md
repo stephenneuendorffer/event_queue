@@ -1,4 +1,4 @@
-# The latest version is moved to our [group repository](https://github.com/cucapra/EventQueue).
+# The latest version is moved to our [EQueueDialect](https://github.com/cucapra/EventQueue) in our [group repository](https://github.com/cucapra/).
 
 
 
