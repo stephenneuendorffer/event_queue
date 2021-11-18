@@ -1,3 +1,9 @@
+**The latest version is moved to our [group repository](https://github.com/cucapra/EventQueue).** 
+
+
+
+
+
 # Event Queue Dialect
 Event queue (Equeue) dialect is an MLIR Dialect that models concurrent devices in terms of control and structure.
 
